@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hriddhiB
-- 👀 I’m interested in exploring AI and ML using Python
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in exploring CAD
+- 🌱 I’m currently learning Soliworks and Matlab
 - 📫 Let's connect: hriddhismita.barua@gmail.com
 - ⚡ Fun fact: I always look forward to something innovative
 
